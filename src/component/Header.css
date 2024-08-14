@@ -1,0 +1,14 @@
+header{
+    width: 100%;
+    background-color: rgb(41, 58, 136);
+    padding: 15px;
+    padding-left: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+}
+li{
+    display: inline;
+    margin-left: 65px;
+    color: white;
+}
